@@ -1,6 +1,4 @@
-<img width="601" height="178" alt="GLG" src="https://github.com/user-attachments/assets/072d5e2a-93a2-4d47-a836-ac045e766e56" />
-
-
+<img width="601" height="178" alt="GLG" src="https://github.com/user-attachments/assets/33785308-e356-4cb2-8a6c-e264e1687685" />
 
 
 <img width="2560" height="1440" alt="Screenshot 2025-09-04 at 17 25 40" src="https://github.com/user-attachments/assets/ba039a79-991a-4117-a7be-f9e5bec4673c" />
