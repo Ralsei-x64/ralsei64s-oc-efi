@@ -1,7 +1,6 @@
 <img width="1104" height="170" alt="Cook" src="https://github.com/user-attachments/assets/9a480eaa-6321-44f7-b1e1-6fd4bb6fbe3c" />
 
 
-# Personal EFI for my machine.
 
 <img width="2560" height="1440" alt="Screenshot 2025-09-04 at 17 25 40" src="https://github.com/user-attachments/assets/ba039a79-991a-4117-a7be-f9e5bec4673c" />
 
