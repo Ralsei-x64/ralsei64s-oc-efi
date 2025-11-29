@@ -1,5 +1,4 @@
-<img width="601" height="178" alt="GLG" src="https://github.com/user-attachments/assets/072d5e2a-93a2-4d47-a836-ac045e766e56" />
-
+<img width="1104" height="170" alt="Cook" src="https://github.com/user-attachments/assets/b273a985-79f4-4211-b54f-c4b319e92e8e" />
 
 
 
